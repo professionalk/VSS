@@ -1,2 +1,2 @@
 txt.txt
-make changes
+make changes --s
